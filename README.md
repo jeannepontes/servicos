@@ -2,6 +2,11 @@
 
 Site catálogo oficial de Jeanne Pontes, Terapeuta Sistêmica especializada em Constelação Familiar, Terapia Individual, de Casal e Familiar.
 
+## 🔗 Acesse o site
+
+👉 [jeanne-pontes-terapeuta.github.io](https://jeanne-pontes-terapeuta.github.io)
+
+---
 
 ## ✨ Sobre o projeto
 
@@ -39,4 +44,4 @@ WhatsApp: [+55 81 98373-6920](https://wa.me/5585991233243)
 
 ---
 
-> Desenvolvido com 🧡 pela Vanguarda Criativa para Jeanne Pontes
+> Desenvolvido com 🧡 para Jeanne Pontes Terapia Sistêmica
